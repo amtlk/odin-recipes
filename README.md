@@ -1,2 +1,2 @@
 # odin-recipes
-This project is for practicing html. The final product should be a basic, unstylized yet functional website.
+The intial Recipes page functioned properly. Now we can test out some simple styles, and practice branching in Git.
